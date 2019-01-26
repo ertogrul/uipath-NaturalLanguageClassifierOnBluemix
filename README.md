@@ -3,8 +3,8 @@ Demo is trying to guess if the invoice should be posted or rejected. The input i
 
 The UiPath robot sends a query (curl command) to Bluemix Natural Language Classifier service and gets the response with book/reject suggestion.
 
-![alt text](https://github.ibm.com/NLP-efforts/UiPAth-robot-using-NLP-service-on-Bluemix/blob/master/nlc-architecture1.png)
-![alt text](https://github.ibm.com/NLP-efforts/UiPAth-robot-using-NLP-service-on-Bluemix/blob/master/nlc-architecture2.png)
+![alt text](https://github.com/ertogrul/uipath-NaturalLanguageClassifierOnBluemix/blob/master/nlc-architecture1.png)
+![alt text](https://github.com/ertogrul/uipath-NaturalLanguageClassifierOnBluemix/blob/master/nlc-architecture2.png)
 
 ## Getting Started
 
