@@ -1,0 +1,1 @@
+curl -G --user apikey:9UN1f413sMdwvm5hD5yg3fMOMlIVF7qVf-cJJ8UFOJKt "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/d519bfx490-nlc-533/classify" --data-urlencode "text=uwaga cesja"

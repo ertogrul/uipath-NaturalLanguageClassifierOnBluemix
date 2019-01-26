@@ -1,0 +1,1 @@
+curl -G --user apikey:ba9VMHjb7lDALczekh8Mvrl8XDdJ-EwdMdQrXVpt8meM "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/cdf8a7x488-nlc-1462/classify" --data-urlencode "text=UWAGA: placic jak najszybciej"
