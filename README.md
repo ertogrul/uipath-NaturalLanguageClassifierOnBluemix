@@ -1,5 +1,5 @@
 # UiPAth-robot-using-NLP-service-on-Bluemix
-Demo is trying to guess if the invoice should be posted or rejected. The input is short description text in the invoice. The output is given by classifier sitting on Bluemix and trained with 50 similar invoice descriptions.
+I have built this demo for the invoicing robot of one of my clients. Demo is making a guess whether the invoice should be posted or rejected. The base for the decision is short description text in the invoice. The output is given by classifier sitting on Bluemix and trained with 50 similar invoice descriptions.
 
 The UiPath robot sends a query (curl command) to Bluemix Natural Language Classifier service and gets the response with book/reject suggestion.
 
@@ -13,7 +13,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 I have created the demo on Windows 7, UiPath 2018.2.3 , with mintty bash emulator.
-
 
 I have registered on IBM Bluemix and initiated Natural Language Classifier service. 
 
